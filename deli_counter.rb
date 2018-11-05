@@ -8,7 +8,7 @@ def line (array1)
     counter += 1
   end
   
-  new_line = line.join(', ')
+  new_line = line.join('')
 
   if array1.length == 0  
     puts "The line is currently empty."
