@@ -17,3 +17,6 @@ def line (array1)
   end
 end
 
+def take_a_number ()
+  
+end
