@@ -9,5 +9,5 @@ def line (array1)
   end
   
   if array1.length == 0  
-  
+    puts 
 end
