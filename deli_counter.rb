@@ -22,3 +22,4 @@ def take_a_number (array1, new_person)
   puts "Welcome, #{new_person}. You are number #{array1.length} in line."
 end
 
+def now_serving 
