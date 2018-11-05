@@ -23,5 +23,8 @@ def take_a_number (array1, new_person)
 end
 
 def now_serving(array1) 
-  
+  if array1.length == 0
+    puts "There is nobody waiting to be served!"
+  else 
+    
 end
