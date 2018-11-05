@@ -4,7 +4,7 @@ def line (array1)
   counter = 1
   
   array1.each do |element|
-    line.push("#{counter}. #{element}")
+    line.push("#{counter}. #{element} ")
     counter += 1
   end
   
