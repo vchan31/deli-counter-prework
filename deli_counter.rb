@@ -8,6 +8,6 @@ def line (array1)
     counter += 1
   end
   
-  if array1 
+  if array1.length == 0  
   
 end
