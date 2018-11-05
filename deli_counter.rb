@@ -1,8 +1,11 @@
 
-
 def line (array1)
   line = []
   counter = 1
+  
   array1.each do |element|
-    put
+    line.push("#{counter}.#{element} ")
+  end
+  
+  
 end
