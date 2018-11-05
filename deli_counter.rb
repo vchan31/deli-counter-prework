@@ -12,4 +12,6 @@ def line (array1)
     puts "The line is currently empty."
   else 
     puts "The line is currently: " + line
+    
+  end
 end
