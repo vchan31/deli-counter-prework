@@ -17,6 +17,9 @@ def line (array1)
   end
 end
 
-def take_a_number ()
-  
+def take_a_number (array1, new_person)
+  array1.push(new_person)
+  puts "Welcome, #{new_person}. You are number #{array1.length} in line."
 end
+
+take_a_number(katz_deli, "Randy Candy")
